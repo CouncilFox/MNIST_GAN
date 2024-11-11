@@ -1,0 +1,2 @@
+# MNIST_GAN
+MNIST Standard GAN
