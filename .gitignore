@@ -1,3 +1,4 @@
 /models
 /training_checkpoints
 /images 
+/mnist_gan_env
